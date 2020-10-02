@@ -1,6 +1,10 @@
 body {
 	margin:0;
 	font-family: Helvetica;
+<<<<<<< HEAD
+=======
+	font-size: 100px;
+>>>>>>> center-elements
 }
 
 #logo {
